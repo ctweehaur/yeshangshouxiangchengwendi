@@ -1,5 +1,5 @@
 /**
- * 互动古文教学平台 - 《夜上受降城闻笛》客观题数据包 (高辨析度4选项·纯净版)
+ * 互动古文教学平台 - 《夜上受降城闻笛》客观题数据包 (高辨析度4选项·拒绝一眼错重制版)
  */
 
 const quizQuestions = [
@@ -15,35 +15,35 @@ const quizQuestions = [
                 en: "Using metaphor / Deploying cold tones to intensely render the freezing chill and isolation of the environment.",
                 correct: true,
                 explanation: "正确！诗人运用比喻，将大漠月色化为积雪与寒霜。这种纯白的冷色调并没有带来美感，反而极其传神地烘托出边塞夜晚的荒凉、冰冷以及远征军人内心的孤寂凄清。",
-                explanationPy: "zhèng què shī rén yùn yòng bǐ yù jiāng dà mò yuè sè huà wéi jī xuě yǔ hán shuāng zhè zhǒng chún bái de lěng sè diào bìng méi yǒu dài lái měi gǎn fǎn ér jí qí chuán shén de hōng tuō chū biān sài yè jǐng de huāng liáng bīng lěng yǐ jí yuǎn zhēng jūn rén nèi xīn de gū jí qī qīng",
+                explanationPy: "zhèng què shī rén yùn yòng bǐ yù jiāng dà mò yuè sè huà wéi jī xuě yǔ hán shuāng zhè zhǒng chún bái de lěng sè diào bìng méi yǒu dài lái měi gǎn fǎn ér jí qí chuán shén de hōng tuō chū biān sài yè jǐng de huāng liáng bīng lěng yǐ jí yuǎn zhēng jūn rén nèin xīn de gū jí qī qīng",
                 explanationEn: "Correct! The poet deploys metaphors to equate moonlight and sand to snow and frost. This cold-toned white imagery masterfully evokes the bleak, freezing loneliness of the frontier night."
             },
             {
-                text: "纯粹 赞美 边疆 / 表现 大漠 景色 的 圣洁 与 温暖",
-                py: "chún cuì zàn měi biān jiāng biǎo xiàn dà mò jǐng sè de shèng jié yǔ wēn nuǎn",
-                en: "Purely praising the frontier / Showing the holiness and warmth of the desert scenery.",
+                text: "采用 象征 手法 / 隐喻 守军 士兵 纯洁 高尚 的 爱国 品格",
+                py: "cǎi yòng xiàng zhēng shǒu fǎ yǐn yù shǒu jūn shì bīng chún jié gāo shàng de ài guó pǐn gé",
+                en: "Using symbolism / Metaphorically implying the pure and noble patriotic character of the soldiers.",
                 correct: false,
-                explanation: "干扰项分析：脱离全诗情感基调。雪和霜在古代诗词的边塞语境中通常带有寒冷、萧瑟的悲剧色彩，绝非表达“温暖”或单纯赞美游玩风光。",
-                explanationPy: "gān rǎo xiàng fān xī tuō lí quán shī qíng gǎn jī tiào xuě hé shuāng zài gǔ dài shī cí de biān sài yǔ jìng zhōng tōng cháng dài yǒu hán lěng xiāo sè de bēi jù sè cǎi jué fēi biǎo dá wēn nuǎn huò dān chún zàn měi yóu wán fēng jǐng",
-                explanationEn: "Distractor Analysis: Detached from the emotional base. Snow and frost in classical frontier military poetry signal harsh cold and desolation rather than literal warmth."
+                explanation: "干扰项分析：高阶干扰项。学生极易被现代文阅读习惯误导，将“雪、霜”的洁白机械地联系到“品格高洁”。但此处属于特定边塞写景，核心在于用冷色渲染凄凉，而非歌颂道德品格。",
+                explanationPy: "gān rǎo xiàng fān xī gāo jiè gān rǎo xiàng xué shēng jí yì bèi xiàn dài wén yuè dú xí guàn wù dǎo jiāng xuě hé shuāng de jié bái jī xiè de lián xì dào pǐn gé gāo jié dàn cǐ chù shǔ yú tè dìng biān sài xiě jǐng hé xīn zài yú yòng lěng sè xuàn rǎn qī liáng ér fēi gē sòng dào dé pǐn gé",
+                explanationEn: "Distractor Analysis: High-level distractor. Students easily apply standard symbolisms of 'snow/frost' to moral purity. However, this is specific frontier imagery meant to render bleakness, not moral praise."
             },
             {
                 text: "运用 夸张 手法 / 记录 边塞 突降 暴雪 的 恶劣 天气",
                 py: "yùn yòng kuā zhāng shǒu fǎ jì lù biān sài tū jiàng bào xuě de è liè tiān qì",
                 en: "Using hyperbole / Recording severe weather conditions of sudden heavy blizzards.",
                 correct: false,
-                explanation: "干扰项分析：属于望文生义的机械误读。诗中的雪和霜是月光照射下大漠的“视觉比喻”，当时正是晴朗的月夜，并没有真正降下暴雪。",
-                explanationPy: "gān rǎo xiàng fān xī shǔ yú wàng wén shēng yì de jī xiè wù dú shī zhōng de xuě hé shuāng shì yuè guāng zhào shè xià dà mò de shì jué bǐ yù dāng shí zhèng shì qíng lǎng de yuè yè bìng méi yǒu zhēn zhèng jiàng xià bào xuě",
-                explanationEn: "Distractor Analysis: A mechanical reading error. The snow and frost are visual metaphors of the moonlit desert; the night was clear, with no actual ongoing blizzard."
+                explanation: "干扰项分析：考查写实与修辞的区别。诗中的雪和霜是月光照射下大漠的视觉比喻，当时正是晴朗的月夜，若误判定为自然暴雪，则属于完全没有读懂修辞。",
+                explanationPy: "gān rǎo xiàng fān xī kǎo chá xiě shí yǔ xiū cí de qū bié shī zhōng de xuě hé shuāng shì yuè guāng zhào shè xià dà mò de shì jué bǐ yù dāng shí zhèng... 若误判定为自然暴雪，则属于完全没有读懂修辞。",
+                explanationEn: "Distractor Analysis: Tests literal vs. figurative reading. The snow/frost are visual metaphors of a clear moonlit night, not an actual blizzard."
             },
             {
-                text: "虚构 幻境 手法 / 描写 诗人 梦境 中的 故乡 画面",
-                py: "xū gòu huàn jìng shǒu fǎ miáo huǐ shī rén mèng jìng zhōng de gù xiāng huà miàn",
-                en: "Using fictional illusion / Depicting the image of hometown within the poet's dream.",
+                text: "通过 借景抒情 / 表达 对 故乡 冬季 严寒 气候 的 担忧",
+                py: "tōng guò jiè jǐng shū qíng biǎo dá duì gù xiāng dōng jì yán hán qì hòu de dān yōu",
+                en: "Through expressing emotions via scenery / Conveying worry over the severe winter climate of the hometown.",
                 correct: false,
-                explanation: "干扰项分析：混淆了空间。回乐峰和受降城是诗人登高远眺看到的真实边塞宏大夜景，属于纪实写景，绝非虚幻的梦境或者故乡的缩影。",
-                explanationPy: "gān rǎo xiàng fān xī hún xiáo le kōng jiān huí lè fēng hé shòu xiáng chéng shì shī rén dēng gāo yuǎn tiào kàn dào de zhēn shí biān sài hóng dà yè jǐng shǔ yú jì shí xiě jǐng jué fēi xū huàn de mèng jìng huò zhě gù xiāng de suō yǐng",
-                explanationEn: "Distractor Analysis: Spatial confusion. These strategic border strongholds represent real military landscapes witnessed by the poet, not an illusionary dream sequence of hometown."
+                explanation: "干扰项分析：利用了“借景抒情”的套话。虽然前两句是写景，但引发的并非是对故乡天气的实用主义担忧，而是大漠环境对当下孤独心境的绝对投射。",
+                explanationPy: "gān rǎo xiàng fān xī lì yòng le jiè jǐng shū qíng de tào huà suī rán qián liǎng jù shì xiě jǐng dàn yǐn fā de bìng fēi duì gù xiāng tiān qì de shí yòng zhǔ yì dān yōu ér shì dà mò huán jìng duì dāng xià gū dú xīn jìng de jué duì tóu shè",
+                explanationEn: "Distractor Analysis: Plays on the standard term 'scenery-emotion transition'. The text uses the harsh view to broadcast immediate exile trauma, not practical climate worries for back home."
             }
         ]
     },
@@ -63,31 +63,31 @@ const quizQuestions = [
                 explanationEn: "Correct! Not knowing the source makes the tune resonate everywhere across the silent vacuum, enhancing their existential confusion and inescapable homesickness."
             },
             {
-                text: "交代 军情 疏忽 / 暗示 守军 没有 做好 侦察 工作",
-                py: "jiāo dài jūn qíng shū hū àn shì shǒu jūn méi yǒu zuò hǎo zhēn chá gōng zuò",
-                en: "Indicating military negligence / Implying that the garrison failed to perform scouts.",
+                text: "设置 悬念 布局 / 引导 守军 警惕 敌军 的 偷袭 信号",
+                py: "shè zhì xuán niàn bù jú yǐn dǎo shǒu jūn jǐng tì dí jūn de tōu xí xìn hào",
+                en: "Setting up a suspenseful layout / Guiding the garrison to stay alert to enemy raid signals.",
                 correct: false,
-                explanation: "干扰项分析：用完全偏离文学欣赏的“军事思维”进行滑稽干扰。文学作品中的不知何处是审美留白，而不是在抨击守军站岗偷懒或侦察失职。",
-                explanationPy: "gān rǎo xiàng fān xī yòng wán quán piān lí wén xué xīn shǎng de jūn shì sī wéi jìn háng huá jī gān rǎo wén xué zuò pǐn zhōng de bù zhī hé chù shì shěn měi liú bái ér bú shì zài pēng jī shǒu jūn zhàn gǎng tōu lǎn huò zhēn chá shī zhí",
-                explanationEn: "Distractor Analysis: Applies military operational logic where aesthetic evaluation is required. It functions as artistic blank space, not a report on sentry failure."
+                explanation: "干扰项分析：高级“军情思维”干扰项。芦管在这里是抒发士兵私情的载体，并不是两军对垒、互相厮杀的战术刺探或者敌军偷袭的军事暗号。",
+                explanationPy: "gān rǎo xiàng fān xī gāo jí jūn qíng sī wéi gān rǎo xiàng lú guǎn zài zhè lǐ shì shū fā shì bīng sī qíng de zài tǐ bìng bú shì liǎng jūn duì lěi hù xiāng sī shā de zhàn shù cì tàn huò zhě dí jūn tōu xí de jūn shì àn hào",
+                explanationEn: "Distractor Analysis: Advanced 'military operation' distractor. The pipe represents raw human sadness, not a tactical signaling device or a pre-raid enemy transmission code."
             },
             {
-                text: "说明 乐师 胆小 / 害怕 被 发现 而 躲在 暗处 演奏",
-                py: "shuō míng lè shī dǎn xiǎo hài pà bèi fā xiàn ér duǒ zài àn chù yǎnzòu",
-                en: "Showing the musician's cowardice / Being afraid of discovery and playing in secret.",
+                text: "暗示 乐源 隐蔽 / 保护 演奏者 免受 军法 的 严厉 惩处",
+                py: "àn shì lè yuán yǐn bì bǎo hù yǎn zòu zhě miǎn shòu jūn fǎ de yán lì chéng chǔ",
+                en: "Implying the source is hidden / Protecting the performer from severe martial punishment.",
                 correct: false,
-                explanation: "干扰项分析：逻辑极其庸俗化。吹芦管的大概是某个同样思乡的戍边士兵，诗中意在强调声音的蔓延，而非贬低或猜测演奏者的胆量。",
-                explanationPy: "gān rǎo xiàng fān xī luó ji jí qí yōng sú huà chuī lú guǎn de dà gài shì mǒu gè tóng yàng sī xiāng de shù biān shì bīng shī zhōng yì zài qiáng diào shēng yīn de màn yán ér fēi biǎn dī huò cāi cè yǎn zòu zhě de dǎn liàng",
-                explanationEn: "Distractor Analysis: A vulgar literal reading. The piper was likely another homesick conscript; the focus remains on the music's reach, not the musician's bravery."
+                explanation: "干扰项分析：符合现实逻辑的混淆项。学生容易脑补“古代军营不准擅自吹笛”从而选错。但这里的“不知何处”是纯粹的美学空间留白，而非躲避宪兵惩罚的现实描写。",
+                explanationPy: "gān rǎo xiàng fān xī fú hé xiàn shí luó ji de hún xiáo xiàng xué shēng róng yì nǎo bǔ gǔ dài jūn yíng bù zhǔn shàn zì chuī dí cóng ér xuǎn cuò dàn zhè lǐ de bù zhī hé chù shì chún cuì de měi xué kōng jiān liú bái ér fēi duǒ bì xiàn bīng chéng fá de xiàn shí miáo huǐ",
+                explanationEn: "Distractor Analysis: Plausible but structurally wrong. Students might assume playing music was contraband under martial law. However, it functions as aesthetic distance, not a record of evading discipline."
             },
             {
-                text: "引导 读者 解密 / 鼓励 去 寻找 声音 真正的 源头",
-                py: "yǐn dǎo dú zhě jiě mì gǔ lì qù xún zhǎo shēng yīn zhēn zhèng de yuán tóu",
-                en: "Guiding readers to solve a mystery / Encouraging a literal search for the exact source.",
+                text: "采用 设问 修辞 / 预示 诗人 即将 展开 的 寻访 旅程",
+                py: "cǎi yòng shè wèn xiū cí yù shì shī rén jí jiāng zhǎn kāi de xún fǎng lǚ chéng",
+                en: "Using hypophora / Foreshadowing the poet's upcoming journey of search.",
                 correct: false,
-                explanation: "干扰项分析：把诗歌鉴赏当成了侦探解密游戏。这里的不知何处是为了将情感推向高潮，制造余韵，而不是给读者布置寻找坐标的任务。",
-                explanationPy: "gān rǎo xiàng fān xī bǎ shī gē jiàn shǎng dāng chéng le zhēn tàn jiě mì yóu xì zhè lǐ de bù zhī hé chù shì wèi le jiāng qíng gǎn tuī xiàng gāo cháo zhì zào yú yùn ér bú shì gěi dú zhě bù zhì xún zhǎo zuò biāo de rèn wù",
-                explanationEn: "Distractor Analysis: Treats literary art like a detective puzzle. The open ambiguity intensifies emotional depth rather than launching a geographic search task."
+                explanation: "干扰项分析：考查修辞概念。“不知何处”并非自问自答的设问，也完全没有要展开一段寻找音乐源头的旅游或探险侦察意图。",
+                explanationPy: "gān rǎo xiàng fān xī kǎo chá xiū cí gài niàn bù zhī hé chù bìng fēi zì wèn zì dá de shè wèn yě wán quán méi yǒu yào zhǎn kāi yī duàn xún zhǎo yīn yuè yuán tóu de lǚ yóu huò tàn xiǎn zhēn chá yì tú",
+                explanationEn: "Distractor Analysis: Tests grammar terms. It is an expression of spatial ambiguity, not a literal question device prompting a geographic expedition."
             }
         ]
     },
@@ -107,31 +107,31 @@ const quizQuestions = [
                 explanationEn: "Correct! The word 'all' aggregates isolated personal longings into a monumental, shared dynamic gaze, engineering unforgettable epic scale and emotional power."
             },
             {
-                text: "强调 人数 众多 / 方便 军队 长官 进行 晚间 点名",
-                py: "qiáng diào rén shù zhòng duō fāng biàn jūn duì zhǎng guān jìn háng wǎn jiān diǎn míng",
-                en: "Emphasizing the headcount / Convenient for army officers conducting night rolls.",
+                text: "强调 守城 人数 众多 / 凸显 受降城 坚固 的 防御 规模",
+                py: "qiáng diào shǒu chéng rén shù zhòng duō tū xiǎn shòu xiáng chéng jiān gù de fáng yù guī mó",
+                en: "Emphasizing the headcount / Highlighting the strong defensive scale of Shouxiang City.",
                 correct: false,
-                explanation: "干扰项分析：典型呆板机械的行政式解读。诗词中的“尽”是情感烈度的提炼，而不是在帮军官核对出勤人数或清点沙场士兵。",
-                explanationPy: "gān rǎo xiàng fān xī diǎn xíng dāi bǎn jī xiè de xíng zhèng shì jiě dú shī cí zhōng de jìn shì qíng gǎn liè dù de tí liàn ér bú shì zài bāng jūn guān hé duì chū qín rén shù huò qīng diǎn shā chǎng shì bīng",
-                explanationEn: "Distractor Analysis: A stiff administrative misreading. The quantifier maximizes psychological scope and dramatic resonance, not an army roster audit."
+                explanation: "干扰项分析：考查文学语境。“尽”虽然指人多，但本诗的核心基调是抒发无处躲藏的思乡哀怨，绝非在借由人数多来炫耀或凸显要塞坚固、城池牢不可破。",
+                explanationPy: "gān rǎo xiàng fān xī kǎo chá wén xué yǔ jìng jìn suī rán zhǐ rén duō dàn běn shī de hé xīn jī tiào shì shū fā wú chù duǒ cáng de sī xiāng āi yuàn jué fēi zài jiè yóu rén shù duō lái xuàn yào huò tū xiǎn yào sài jiān gù chéng chí láo bù kě pò",
+                explanationEn: "Distractor Analysis: Tests poetic tone. While 'all' implies a crowd, it frames the universal grip of grief, not a strategic claim about fortress garrison strength."
             },
             {
-                text: "表现 纪律 严明 / 士兵 听从 指挥 统一 遥望 故乡",
-                py: "biǎo xiàn jì lǜ yán míng shì bīng tīng cóng zhǐ huī tǒng yī yáo wàng gù xiāng",
-                en: "Showing strict discipline / Soldiers obeying orders to gaze at their homes simultaneously.",
+                text: "表现 纪律 严明 / 守军 听从 长官 指挥 统一 行动",
+                py: "biǎo xiàn jì lǜ yán míng shǒu jūn tīng cóng zhǎng guān zhǐ huī tǒng yī xíng dòng",
+                en: "Showing strict discipline / The troops following officers' commands for unified action.",
                 correct: false,
-                explanation: "干扰项分析：荒谬地将自发的情感流露解读成了口令指挥。思乡是士兵内心深处最隐秘、最自发的本能痛苦，绝非长官统一组织调度的军事操练。",
-                explanationPy: "gān rǎo xiàng fān xī huāng miù dì jiāng zì fā de qíng gǎn liú lù jiě dú chéng le kǒu lìng zhǐ huī sī xiāng shì shì bīng nèi xīn shēn chù zuì yǐn mì zuì zì fā de běn néng tòng kǔ jué fēi zhǎng guān tǒng yī zǔ zhī diào dù de_jūn shì cāo liàn",
-                explanationEn: "Distractor Analysis: Absurdly treats spontaneous raw human sorrow as a commanded military drill. Nostalgia flows organically from trauma, not tactical protocols."
+                explanation: "干扰项分析：将本能的情感流露错判为“军事口令”。思乡是人性最隐秘、最脆弱的痛苦，不可能是在听从长官调度的集会操练。",
+                explanationPy: "gān rǎo xiàng fān xī jiāng běn néng de qíng gǎn liú lù cuò pàn wéi jūn shì kǒu lìng sī xiāng shì rén xìng zuì yǐn mì zuì cuì ruò de tòng kǔ bù kě néng shì zài tīng cóng zhǎng guān diào dù de jí huì cāo liàn",
+                explanationEn: "Distractor Analysis: Mistakes biological instinct for an executive order. Homesickness blooms organically; it isn't an organized operational rally."
             },
             {
-                text: "暗示 战况 惨烈 / 守城 士兵 全部 壮烈 牺牲",
-                py: "àn shì zhàn kuàng cǎn liè shǒu chéng shì bīng quán bù zhuàng liè xī shēng",
-                en: "Implying severe combat losses / All defensive forces sacrificing heroically.",
+                text: "暗示 战况 激烈 / 守城 将士 已 抱定 必死 的 决心",
+                py: "àn shì zhàn kuàng jī liè shǒu chéng jiàng shì yǐ bào dìng bì sǐ de jué xīn",
+                en: "Implying active heavy combat / The defenders having resolved to fight to the death.",
                 correct: false,
-                explanation: "干扰项分析：严重过度脑补和歪曲字面。“尽望乡”是指大家都在遥望家乡、思念故土，此时士兵们都活着，并不是全部战死沙场的悲剧暗示。",
-                explanationPy: "gān rǎo xiàng fān xī yán zhòng guò dù nǎo bǔ hé wāi qū zì miàn jìn wàng xiāng shì zhǐ dà jiā dōu zài yáo wàng jiā xiāng sī niàn gù tǔ cǐ shí shì bīng men dōu huó zhe bìng fēi quán bù zhàn sǐ shā chǎng de bēi jù àn shì",
-                explanationEn: "Distractor Analysis: Severe over-interpretation and text distortion. 'Gazing toward home' maps live psychological ache; the troops are alive, not physically killed."
+                explanation: "干扰项分析：套用了其他悲壮边塞诗的套路。“望乡”虽然沉重，但在本诗的此时此刻，表现的是对家乡的深沉渴望与温情眷恋，而非即将冲锋、视死如归的临战宣誓。",
+                explanationPy: "gān rǎo xiàng fān xī tào yòng le qí tā bēi zhuàng biān sài shī de tào lù wàng xiāng suī rán chén zhòng dàn zài běn shī de cǐ shí cǐ kè biǎo xiàn de shì duì jiā xiāng de shēn chén kě wàng yǔ wén qíng juàn liàn ér fēi jí jiāng chōng fēng shì sǐ rú guī de lín zhàn xuān shì",
+                explanationEn: "Distractor Analysis: Over-borrows clichés from standard epic war poems. 'Gazing home' captures nostalgic displacement, not a combat oath before going over the top."
             }
         ]
     },
@@ -155,39 +155,39 @@ const quizQuestions = [
                 py: "xiōng nú qín hàn shí qī de běi fāng zhǔ yào jìn dí",
                 en: "Xiongnu / The primary northern rival during the Qin and Han eras.",
                 correct: false,
-                explanation: "干扰项分析：历史朝代混淆。匈奴是秦朝和汉朝（如卫青、霍去病时期）的主要北方对手，到了唐代，匈奴作为一个独立政权早已退出了历史舞台。",
-                explanationPy: "gān rǎo xiàng fān xī lì shǐ cháo dài hún xiáo xiōng nú shì qín cháo hé hàn cháo de zhǔ yào běi fāng duì shǒu dào le táng dài xiōng nú zuò wéi yí gè dú lì zhèng quán zǎo yǐ tuì chū le lì shǐ wǔ tái",
-                explanationEn: "Distractor Analysis: Historical era confusion. The Xiongnu were rivals of Qin and Han; by the Tang Dynasty, they had long vanished from active history."
+                explanation: "干扰项分析：经典的历史时代混淆项。匈奴是秦汉时期（卫青霍去病时代）的核心死敌。到了唐代，作为一个独立政权的匈奴早就退出了历史舞台，极具历史辨析度。",
+                explanationPy: "gān rǎo xiàng fān xī jīng diǎn de lì shǐ shí dài hún xiáo xiàng xiōng nú shì qín hàn shí qī de hé xīn sǐ dí dào le táng dài xiōng nú zuò wéi yí gè dú lì zhèng quán zǎo jiù tuì chū le lì shǐ wǔ tái jí jù lì shǐ biàn xī dù",
+                explanationEn: "Distractor Analysis: Classic era confusion. The Xiongnu were rivals of the Qin and Han dynasties; by the Tang Dynasty, they had long since exited the stage of active history."
             },
             {
                 text: "契丹 / 宋代 建立 辽国 的 北方 民族",
                 py: "qì dān sòng dài jiàn lì liáo guó de běi fāng mín zǔ",
                 en: "Khitan / The northern group that founded the Liao Dynasty during the Song era.",
                 correct: false,
-                explanation: "干扰项分析：契丹虽在唐代已存在，但其真正成为大一统中原王朝（宋代）的顶级北方噩梦和死敌是在五代和两宋时期，与中唐筑城背景不符。",
-                explanationPy: "gān rǎo xiàng fān xī qì dān suī zài táng dài yǐ cún zài dàn qí zhēn zhèng chéng wéi dà yī tǒng zhōng yuán wáng cháo de dǐng jí běi fāng è mèng hé sǐ dí shì zài wǔ dài hé liǎng sòng shí qī yǔ zhōng táng zhù chéng bèi jǐng bù fú",
-                explanationEn: "Distractor Analysis: Misplaces timelines. Though present, the Khitans rose as a premier imperial state (Liao) later during the Five Dynacies and Song eras."
+                explanation: "干扰项分析：契丹虽在唐代已存在，但其真正成为割据幽云十六州、与中原正规对峙的顶级北方梦魇是在随后的两宋时期，不能挪用到唐代初年筑城的背景中。",
+                explanationPy: "gān rǎo xiàng fān xī qì dān suī zài táng dài yǐ cún zài dàn qí zhēn zhèng chéng wéi gē jù yōu yún shí liù zhōu yǔ zhōng yuán zhèng guī duì zhì de dǐng jí běi fāng mèng yǎn shì zài suí hòu de liǎng sòng shí qī bù néng nuó yòng dào táng dài chū nián zhù chéng de bèi jǐng zhōng",
+                explanationEn: "Distractor Analysis: Misplaces the geopolitical scale. Reeds and garrisons did see Khitans in Tang times, but their rise as a premier imperial rival (Liao) occurred later during the Song Dynasty."
             },
             {
                 text: "蒙古 / 元代 统一 中原 的 北方 游牧",
                 py: "méng gǔ yuán dài tǒng yī zhōng yuán de běi fāng yóu mù",
                 en: "Mongol / The northern nomadic group that unified China under the Yuan Dynasty.",
                 correct: false,
-                explanation: "干扰项分析：时间严重滞后。蒙古帝国的崛起与跨越中原是在数百年后的宋末元初时期，绝对不可能是中唐时期李益写诗时的防御对象。",
-                explanationPy: "gān rǎo xiàng fān xī shí jiān yán zhòng zhì hòu méi gǔ dì guó de jué qǐ yǔ kuà yuè zhōng yuán shì shù bǎi nián hòu de sòng mò yuán chū shí qī jué bù kě néng shì zhōng táng shí qī lǐ yì xiě shī shí de fáng yù duì xiàng",
-                explanationEn: "Distractor Analysis: Major chronological error. The Mongol empire rose centuries later, meaning they were completely irrelevant to Middle Tang defense policy."
+                explanation: "干扰项分析：考查宏观历史常识。成吉思汗与铁骑横扫中原建立元朝是在数百年后的事情，绝对不可能是李益在中唐戍边时所面临的边防敌人。",
+                explanationPy: "gān rǎo xiàng fān xī kǎo chá hóng guān lì shǐ cháng shí chéng jí sī hán yǔ tiě qí héng sǎo zhōng yuán jiàn lì yuán cháo shì zài shù bǎi nián hòu de shì qing jué bù kě néng shì lǐ yì zài zhōng táng shù biān shí suǒ miàn lín de biān fáng dí rén",
+                explanationEn: "Distractor Analysis: Fundamental chronological testing. Genghis Khan and the expansion of the Mongol empire occurred centuries later, making them anachronistic for Middle Tang defenses."
             }
         ]
     },
     {
         id: 5,
-        text: "全诗前两句纯写静态夜景，后两句突入缈笛声，这种“由景入情”的转换具有什么精妙之处？",
-        py: "quán shī qián liǎng jù chún xiě jìng tài yè jǐng hòu liǎng jù tū rù miǎo dí shēng zhè zhǒng yóu jǐng rù qíng de zhuǎn huàn jù yǒu shén me jīng miào zhī chù",
+        text: "全诗前两句纯写静态夜景，后两句突入缥缈笛声，这种“由景入情”的转换具有什么精妙之处？",
+        py: "quán shī qián liǎng jù chún xiě jìng tài yè jǐng hòu liǎng jù tū rù piāo miǎo dí shēng zhè zhǒng yóu jǐng rù qíng de zhuǎn huàn jù yǒu shén me jīng miào zhī chù",
         en: "The first half focuses on static night views, while the second introduces remote flute sounds. What is the merit of this transition?",
         options: [
             {
-                text: "借 凄凉 边景 蓄积 情感 / 用 缈笛声 瞬间 触发 并 轰然 放大 思乡之苦",
-                py: "jiè qī liáng biān jǐng xù jī qíng gǎn yòng miǎo dí shēng shùn jiān chù fā bìng hōng rán fàng dà sī xiāng zhī kǔ",
+                text: "借 凄凉 边景 蓄积 情感 / 用 缥缈 笛声 瞬间 触发 并 轰然 放大 思乡之苦",
+                py: "jiè qī liáng biān jǐng xù jī qíng gǎn yòng piāo miǎo dí shēng shùn jiān chù fā bìng hōng rán fàng dà sī xiāng zhī kǔ",
                 en: "Accumulating emotion via bleak border scenes / Deploying the music to trigger and instantly amplify homesickness.",
                 correct: true,
                 explanation: "正确！前两句通过沙白如雪、月冷如霜的死寂静态画面，将边塞的凄冷孤寂积蓄到极致。后两句凄厉的芦管声突然打破寂静，成为情感的引爆点，让万千将士蓄积已久的思乡之泪在一瞬间轰然决堤。",
@@ -195,34 +195,34 @@ const quizQuestions = [
                 explanationEn: "Correct! The first half builds up frozen emotional tension via dead-silent white scenery. The weeping reed pipe then breaks the void as an acoustic trigger, instantly detonating the accumulated grief."
             },
             {
-                text: "纯粹 为了 凑字 换行 / 前后 两个 部分 的 描写 毫无 内在 关联",
-                py: "chún cuì wèi le còu zì huàn háng qián hòu liǎng gè bù fèn de miáo huǐ háo wú nèi zài guān lián",
-                en: "Purely filler to meet line counts / The two halves have no internal thematic connection.",
-                correct: false,
-                explanation: "干扰项分析：对古典诗词结构的极度低俗解构。景语皆情语，冰冷的景色是思乡的温床，缥缈的笛声是思乡的药引，两者内在逻辑极度严密。",
-                explanationPy: "gān rǎo xiàng fān xī duì gǔ diǎn shī cí jié gòu de jí dù dī sú jiě gòu jǐng yǔ jiē qíng yǔ bīng lěng de jǐng sè shì sī xiāng de wēn chuáng piāo miǎo de dí shēng shì sī xiāng de yào yǐn liǎng zhě nèi zài luó ji jí dù yán mì",
-                explanationEn: "Distractor Analysis: A naive deconstruction of structure. Scenery serves as the nursery of grief, and the music acts as the catalyst; they are profoundly intertwined."
-            },
-            {
                 text: "冲淡 悲伤 情绪 / 用 优美的 音乐 引导 士兵们 快乐 起舞",
                 py: "chōng dàn bēi shāng qíng xù yòng yōu měi de yīn yuè yǐn dǎo shì bīng men kuài lè qǐ wǔ",
                 en: "Diluting sad emotions / Using beautiful music to guide soldiers to dance happily.",
                 correct: false,
-                explanation: "干扰项分析：彻底颠倒情感黑白。芦管在边塞诗中是标志性的“哀怨”乐器，它的出现让悲伤情绪暴增，绝非军营蹦迪或娱乐起舞的快乐背景音。",
-                explanationPy: "gān rǎo xiàng fān xī chè dǐ diān dǎo qíng gǎn hēi bái lú guǎn zài biān sài shī zhōng shì biāo zhì xìng de āi yuàn yuè qì tā de chū xiàn ràng bēi shāng qíng xù bào zēng jué fēi jūn yíng bèng dí huò yú lè qǐ wǔ de kuài lè bèi jǐng yīn",
-                explanationEn: "Distractor Analysis: Completely flips the emotional polarity. The reed pipe functions as a standard vehicle of mourning; it magnifies trauma rather than soothing it."
+                explanation: "高级干扰项（原D项分析）：彻底颠倒情感黑白。芦管在边塞诗中是标志性的“哀怨”乐器，它的出现让悲伤情绪暴增，部分粗心的学生容易被现代生活经验误导，误以为听音乐是为了‘冲淡悲伤、快乐起舞’，极具设陷阱效果。",
+                explanationPy: "gān rǎo xiàng fān xī chè dǐ diān dǎo qíng gǎn hēi bái lú guǎn zài biān sài shī zhōng shì biāo zhì xìng de āi yuàn yuè qì tā de chū xiàn ràng bēi shāng qíng xù bào zēng bù fèn cū xīn de xué shēng róng yì bèi xiàn dài shēng huó jīng yàn wù dǎo wù yǐ wéi tīng yīn yuè shì wèi le chōng dàn bēi shāng kuài lè qǐ wǔ jí jù shè xiàn jǐng xiào guǒ",
+                explanationEn: "Distractor Analysis: Highly effective. It reverses the emotional spectrum. The reed pipe is a standard carrier of melancholy; careless students might rely on modern intuition and misinterpret music as an escape or a prompt for joy."
             },
             {
-                text: "记录 捕鱼 过程 / 描写 边疆 军民 采集 芦苇 的 快乐 场景",
-                py: "jì lù bǔ yú guò chéng miáo huǐ biān jiāng jūn mín cǎi jí lú wěi de kuài lè chǎng jǐng",
-                en: "Recording a fishing process / Describing a happy scene of harvesting reeds.",
+                text: "利用 空间 错觉 写景 / 属于 诗歌 布局 中 典型 的 倒叙 结构",
+                py: "lì yòng kōng jiān cuò jué xiě jǐng shǔ yú shī gē bù jú zhōng diǎn xíng de dào xù jié gòu",
+                en: "Utilizing spatial illusion for scenery / Belonging to a classic flashback structure in layout.",
                 correct: false,
-                explanation: "干扰项分析：针对不认识“芦管”乐器、望文生义硬猜汉字的学生设计的荒谬干扰。芦管是乐器名，不是捕鱼工具，更没有采集芦苇的务农情节。",
-                explanationPy: "gān rǎo xiàng fān xī zhēn duì bú rèn shi lú guǎn yuè qì wàng wén shēng yì yìng cāi hàn zì de xué shēng shè jì de huāng miù gān rǎo lú guǎn shì yuè qì míng bú shì bǔ yú gōng jù gèng méi yǒu cǎi jí lú wěi de wù nóng qíng jié",
-                explanationEn: "Distractor Analysis: A ridiculous distractor aimed at students unfamiliar with historical instrumentation. It is a woodwind instrument, not an agricultural tool."
+                explanation: "重制高辨析干扰项：从结构概念设卡。全诗依照“先看静态风景，再听动态声音”的时间顺序展开，属于标准的顺叙。利用学术词汇“空间错觉”和“倒叙”包装，极具迷惑性，绝非一眼错。",
+                explanationPy: "gān rǎo xiàng fān xī cóng jié gòu gài niàn shè kǎ quán shī yī zhào xiān kàn jìng tài fēng jǐng zài tīng dòng tài shēng yīn de shí jiān shùn xù zhǎn kāi shǔ yú biāo zhǔn de shùn xù lì yòng xué shù cí huì kōng jiān cuò jué hé dào xù bāo zhuāng jí jù mí huò xìng jué fēi yī yǎn cuò",
+                explanationEn: "Distractor Analysis: Upgraded structural distractor. The quatrain progresses chronologically (view first, melody second), marking standard linear ordering. Wrapping it in academic jargon like 'spatial illusion' or 'flashback layout' forms a robust trap."
+            },
+            {
+                text: "进行 客观 写实 记录 / 展现 边疆 军民 特有 的 民俗 文艺 活动",
+                py: "jìn háng kè guān xiě shí jì lù zhǎn xiàn biān jiāng jūn mín tè yǒu de mín sú wén yì huó dòng",
+                en: "Conducting an objective realistic record / Showcasing a unique folk cultural activity of the frontier.",
+                correct: false,
+                explanation: "重制高辨析干扰项：从写景抒情的本质设卡。诗中的“芦管”虽是写实声音，但其根本目的是为了作为情感催化剂引出大面积的“望乡之悲”，如果当成是单纯记录军民大联欢或民俗文艺表演活动，则完全曲解了艺术高度。",
+                explanationPy: "gān rǎo xiàng fān xī cóng xiě jǐng shū qíng de běn zhì shè kǎ shī zhōng de lú guǎn suī rán shì xiě shí shēng yīn dàn qí gēn běn mù dì shì wèi le zuò wéi qíng gǎn cuī huà jì yǐn chū dà miàn jī de wàng xiāng zhī bēi rú guǒ dàng chéng shì chún cuì jì lù jūn mín dà lián huān huò mín sú wén yì biǎo yǎn huó dòng zé wán quán qū jiě le yì shù gāo dù",
+                explanationEn: "Distractor Analysis: Upgraded thematic distractor. The pipe music is a physical sound but operates as an emotional trigger for collective trauma. Classifying it as a dry documentary record of a cheerful garrison cultural festival fundamentally distorts the poetry's artistic intent."
             }
         ]
     }
 ];
 
-console.log("成功装配：shouxia_quiz 100%纯净高质量题库");
+console.log("完美重制完成：客观题库干扰项品质已全面提升");
